@@ -12,10 +12,15 @@
 
 ## 📸 Screenshots
 
-| **AI Dashboard** | **Live Preview** |
-|:---:|:---:|
-| ![Dashboard Interface](./screenshots/dashboard.png) | ![Live Preview](./screenshots/preview.png) |
-| *Professional IDE-like interface with Monaco Editor* | *Real-time rendering using Sandpack* |
+| **AI Dashboard** | 
+|:---: |
+| ![Dashboard Interface](./screenshots/dashboard.png) |
+| *Professional IDE-like interface with Monaco Editor* |
+
+| **Live Preview** |
+|:---:|
+| ![Live Preview](./screenshots/preview.png) |
+| *Real-time rendering using Sandpack* |
 
 | **Authentication** | 
 |:---:|
